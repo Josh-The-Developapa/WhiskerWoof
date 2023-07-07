@@ -1,6 +1,8 @@
 # WhiskerWoof
 
-Hey There 👋. This here's an implementation of a convolutional neural network (CNN) built with PyTorch for classifying images of cats and dogs. You can download the dataset at https://www.microsoft.com/en-us/download/details.aspx?id=54765
+Hey There 👋. This here's an implementation of a convolutional neural network (CNN) built with PyTorch for classifying images of cats and dogs. The model runs on test data with 76.01% accuracy
+
+You can download the dataset at https://www.microsoft.com/en-us/download/details.aspx?id=54765
 
 ## Before you start
 
