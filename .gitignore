@@ -1,0 +1,9 @@
+data
+.vscode
+bin
+include
+lib
+share
+pyvenv.cfg
+data
+__pycache__
